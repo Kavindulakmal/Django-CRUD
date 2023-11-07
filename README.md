@@ -38,6 +38,7 @@ You should be able to view the homepage.
 ### resources
 1. https://docs.djangoproject.com/en/4.2/
 2. https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
+3. https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
 ### Contributing
 Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
