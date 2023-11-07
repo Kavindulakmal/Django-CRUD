@@ -25,7 +25,7 @@ and install django using
 pip install django
 ```
 
-2.Go to the `project` folder and run the below command from the command prompt
+2.Go to the `project` folder (type `cd project`) and run the below command from the command prompt
 ```
 python manage.py runserver
 ```
