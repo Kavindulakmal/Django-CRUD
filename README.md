@@ -5,7 +5,7 @@ Welcome to the project! This is a Student Management System App made in Python a
 It allows users to quickly and easily add, delete, update, and view Student's Details. With this App, 
 users can effortlessly manage their Details. hope you enjoy and we look forward to your contributions!
 
-## Instructions
+
 
 ### Prerequisites
 1. install python
